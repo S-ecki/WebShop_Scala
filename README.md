@@ -16,6 +16,6 @@ The Webshop consists of StoreItems, which get saved in a Database. <br/>
 Note: The data is not saved persistently, but only during runtime.
 
 ## What I´ve learned
-* Basic Scala Syntax and Semantics
+* Basic Scala syntax and semantics
 * Working with IntelliJ + sbt
 * The benefits of Functional Programming
