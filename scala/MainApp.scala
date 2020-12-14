@@ -16,5 +16,6 @@ object MainApp  {
     db.delete(1)
     println(db.sumUp())
     db.search("PC")
+
   }
 }
