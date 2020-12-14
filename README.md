@@ -19,3 +19,4 @@ Note: The data is not saved persistently, but only during runtime.
 * Basic Scala syntax and semantics
 * Working with IntelliJ + sbt
 * The benefits of Functional Programming
+* How to write compact code
